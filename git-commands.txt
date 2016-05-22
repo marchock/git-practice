@@ -1,0 +1,22 @@
+
+
+git config --global user.name <name>
+
+#select which editor to use for commits
+git config --global --edit
+
+
+git add -p
+
+
+
+
+
+
+git log
+
+git log --stat
+
+git log --grep="<pattern>"
+
+git log <file>
